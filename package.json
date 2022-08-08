@@ -1,0 +1,29 @@
+{
+  "name": "thesiswebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandeshDhungel/datadoc.git"
+  },
+  "author": "Sandesh Dhungel sandez491@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandeshDhungel/datadoc/issues"
+  },
+  "homepage": "https://github.com/SandeshDhungel/datadoc#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "http-server": "^14.1.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
